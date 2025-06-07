@@ -1,4 +1,4 @@
-# 🛰️ NATS Chatbot with Streamlit and GPT-4o
+# 🛰️ NATS Chatbot with Streamlit and GPT-4o-mini
 
 This project demonstrates a simple pub/sub chatbot system using the [NATS messaging system](https://nats.io), [Docker](https://www.docker.com/), [Nats Docker](https://hub.docker.com/_/nats), [Streamlit](https://streamlit.io/), and [OpenAI GPT-4o-mini](https://platform.openai.com/docs/models/gpt-4o). 
 
